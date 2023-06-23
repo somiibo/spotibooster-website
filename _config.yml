@@ -27,7 +27,7 @@ app: 'somiibo'
 meta:
   title: "Spotify Bot - Get real Spotify streams and followers - Spotibooster"
   description: "Automate your Spotify activity to get more plays and followers with our free Spotify bot & Spotify stream bot! Increase Spotify followers & plays for free!"
-  og-image: "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/socials/itw-creative-works-brandmark-black-1024x1024.png"
+  og-image: "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/socials/itw-creative-works-brandmark-square-black-1024x1024.png"
   keywords: "" # false or blank to disable, comma separated kws
   viewport: "" # string, leave blank to use default
 
@@ -95,7 +95,7 @@ brand:
   name: "Spotibooster" # example: Google
   type: "Corporation" # example: Corporation
   description: "Automate your Spotify activity to get more plays and followers with our free Spotify bot & Spotify stream bot! Increase Spotify followers & plays for free!" # example: A search engine company.
-  logo-image: "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/socials/itw-creative-works-brandmark-black-1024x1024.png" # URL | LOCAL path, example: https://defaultogimage.com, /assets/img/og/og.png
+  logo-image: "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/socials/itw-creative-works-brandmark-square-black-1024x1024.png" # URL | LOCAL path, example: https://defaultogimage.com, /assets/img/og/og.png
   logo-image-svg: "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-brandmark-black-x.svg" # URL | LOCAL path, example: https://defaultogimage.com, /assets/img/og/og.svg
   address-locality: "Los Angeles" # String | example: Los Angeles
   address-country: "United States" # String | example: United States
