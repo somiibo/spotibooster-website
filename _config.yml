@@ -207,7 +207,7 @@ settings:
           enabled: true,
           config: {
             dsn: '',
-            release: 'ultim',
+            release: '',
           },
         },
       },
