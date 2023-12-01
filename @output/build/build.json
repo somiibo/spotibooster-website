@@ -1,0 +1,28 @@
+{
+  "environment": "production",
+  "repo": {
+    "user": "somiibo",
+    "name": "spotibooster-website"
+  },
+  "npm-build": {
+    "timestamp": "2023-12-01T01:05:07.956Z"
+  },
+  "gh-pages-push": {
+    "timestamp": "%GHP_TIMESTAMP%"
+  },
+  "packages": {
+    "web-manager": "3.2.20"
+  },
+  "brand": {
+    "name": "Spotibooster",
+    "type": "Corporation",
+    "description": "Automate your Spotify activity to get more plays and followers with our free Spotify bot & Spotify stream bot! Increase Spotify followers & plays for free!",
+    "logo-image": "https://cdn.itwcreativeworks.com/assets/somiibo/images/logo/somiibo-brandmark-blue-1024x1024.png",
+    "logo-image-svg": "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-brandmark-black-x.svg",
+    "address-locality": "Los Angeles",
+    "address-country": "United States"
+  },
+  "admin-dashboard": {
+    "pages": []
+  }
+}
