@@ -5,13 +5,13 @@
     "name": "spotibooster-website"
   },
   "npm-build": {
-    "timestamp": "2024-03-27T11:43:58.520Z"
+    "timestamp": "2024-03-27T19:13:34.400Z"
   },
   "gh-pages-push": {
     "timestamp": "%GHP_TIMESTAMP%"
   },
   "packages": {
-    "web-manager": "3.2.44"
+    "web-manager": "3.2.45"
   },
   "brand": {
     "name": "Spotibooster",
