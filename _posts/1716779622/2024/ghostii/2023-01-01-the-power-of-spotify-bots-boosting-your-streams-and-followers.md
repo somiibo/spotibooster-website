@@ -8,8 +8,8 @@ post:
   excerpt: "Explore the power of Spotify bots to boost your streams and followers, and learn how to choose the right bot for your needs while understanding the ethical and legal considerations."
   author: alex
   id: 1716779622
-  tags:
-  categories:
+  tags: ["business marketing"]
+  categories: ["Marketing", "Business"]
   affiliate-search-term:
 ---
 
