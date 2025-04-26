@@ -235,18 +235,18 @@
         "type": ""
       },
     {
-        "url": "https://spotibooster.com/admin/posts",
-        "title": "Posts",
-        "desc": "View posts",
-        "breadcrumb": "Posts",
-        "category": "",
-        "type": ""
-      },
-    {
         "url": "https://spotibooster.com/admin/users",
         "title": "Explore Users",
         "desc": "Explore users with this Firestore query tool.",
         "breadcrumb": "Explore Users",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://spotibooster.com/admin/posts",
+        "title": "Posts",
+        "desc": "View posts",
+        "breadcrumb": "Posts",
         "category": "",
         "type": ""
       },
@@ -401,6 +401,14 @@
         "breadcrumb": "Webhook",
         "category": "",
         "type": ""
+      },
+    {
+        "url": "https://spotibooster.com/blog/creative-strategies-for-boosting-your-spotify-engagement",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
       },
     {
         "url": "https://spotibooster.com/blog/how-does-spotify-automation-boost-artist-growth",
