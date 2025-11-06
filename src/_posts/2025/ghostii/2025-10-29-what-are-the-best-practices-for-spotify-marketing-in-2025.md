@@ -1,6 +1,6 @@
 ---
 ### ALL PAGES ###
-layout: app/blog/post
+layout: blueprint/blog/post
 
 ### POST ONLY ###
 post:
@@ -39,7 +39,7 @@ Lastly, collaborations are becoming more cross-genre and international than ever
 
 In the ever-evolving world of Spotify marketing, staying informed and adaptable is key. As these trends unfold, they offer exciting new opportunities for artists to amplify their reach and resonate with listeners in innovative ways. So, are you ready to ride the wave of 2025? Let's turn up the volume and see where the music takes us!
 
-{% include /master/modules/adunits/adsense-in-article.html index="0" %}
+
 
 ## Utilizing Automation Tools: A Deep Dive into SpotiBooster
 
@@ -67,7 +67,7 @@ Next, keep an eye on follower growth. It's like checking your social media follo
 
 Now, let's talk about saves and playlists. When a listener saves your track or adds it to their playlist, it's like a digital high-five. It shows they're not just listening; they're invested. Keep a close watch on these metrics because they indicate long-term interest and potential for organic growth. 
 
-{% include /master/modules/adunits/adsense-in-article.html index="1" %}
+
 
 Engagement rates also play a crucial role. How often are listeners skipping your tracks versus listening all the way through? This can offer insights into the effectiveness of your hooks and the overall appeal of your music. High engagement means your tracks are resonating, while low engagement might signal a need for a tune-up.
 
